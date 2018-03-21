@@ -1,8 +1,4 @@
 
-**Sumário**
-
-[TOC]
-
 
 # Sistema de Entrega e Avaliação de Trabalhos
 
@@ -18,10 +14,9 @@ Esse documento é construído de forma colaborativa pelos alunos. Sendo as taref
 
 ## Introdução
 
-:::warning
-Ainda precisamos de sugestões para o nome do sistema. 
-Alguem pode sugerir aqui? Depois votamos!
-:::
+
+> Ainda precisamos de sugestões para o nome do sistema. 
+> Alguem pode sugerir aqui? Depois votamos!
 
 O Sistema de Entrega e Avaliação de Trabalhos tem como objetivo facilitar a entrega e avaliação de trabalhos acadêmicos.
 
@@ -88,9 +83,9 @@ Essa seção descreve os requisitos do sistema.
 
 As seguintes pessoas constribuíram neste sistema
 
-:::info
-++Coloque seu nome aqui++
+
+> Coloque seu nome aqui
 
 Prof. Leandro Israel Pinto
 ...
-:::
+
